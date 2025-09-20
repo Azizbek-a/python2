@@ -8,7 +8,7 @@ ism="Azizbek"
 familya="Jamolov"
 yosh=13
 print(f" Mening ismim {ism} mening familyam {familya} mening yoshim {yosh}")
-print(son1/son2)
+print(son1%son2)
 print(son1//son2)
 p=3.14
 r=28
